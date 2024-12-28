@@ -1,3 +1,7 @@
+# Jess Lark Portfolio Website 2024
+
+Goal: Learn stuff! New site, new look! 
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
